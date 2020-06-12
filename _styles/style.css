@@ -1,0 +1,32 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+.wrapper {
+    height: 400px;
+}
+
+#div1 {
+    background-color: #73683b;
+}
+
+#div2 {
+    background-color: #B0A084;
+}
+
+#div3 {
+    background-color: #E9E6FF;
+}
+
+#div4 {
+    background-color: #B3679B;
+}
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ body typography  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
